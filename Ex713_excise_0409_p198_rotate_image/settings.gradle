@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex713_excise_0409_p198_rotate_image"
