@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0726_p287_change_bgcolor_menu_xml"

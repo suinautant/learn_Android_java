@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0727_0801_p325_file"
