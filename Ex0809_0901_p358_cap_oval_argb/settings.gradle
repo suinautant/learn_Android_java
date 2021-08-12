@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0809_0901_p358_cap_oval_argb"
