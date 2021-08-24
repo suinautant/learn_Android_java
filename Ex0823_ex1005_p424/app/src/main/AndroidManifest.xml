@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.iot.ex0823_ex1005_p424">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Ex0810_1001_p397_thirdactivity">
+        <activity android:name="org.iot.ex0823_ex1005_p424.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.iot.ex0823_ex1005_p424.SecondActivity" android:label="2번째 액티비티" />
+        <activity android:name="org.iot.ex0823_ex1005_p424.ThirdActivity" android:label="3번째 액티비티" />
+    </application>
+
+</manifest>
