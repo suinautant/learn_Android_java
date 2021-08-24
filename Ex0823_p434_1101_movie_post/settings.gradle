@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0823_p434_1101_movie_post"
