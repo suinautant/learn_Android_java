@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0830_ex1206_p474_simple_diary_using_db"
