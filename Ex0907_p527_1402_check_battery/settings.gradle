@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Ex0907_p527_1402_check_battery"
